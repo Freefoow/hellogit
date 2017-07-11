@@ -3,7 +3,7 @@ package com.java.hellogit;
 public class HelloGit {
 
 	public static void main(String[] args) {
-		String hello = "hello ";
+		String hello = "hello 1 ";
 		SaySomething(hello); 
 	}
 	
