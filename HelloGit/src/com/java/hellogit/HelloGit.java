@@ -11,5 +11,4 @@ public class HelloGit {
 	public static void SaySomething(String word){
 		System.out.println(word);
 	}
-
 }
